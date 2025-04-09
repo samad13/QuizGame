@@ -5,7 +5,7 @@
         class="bg-blue-500 text-white px-2 py-3 rounded-md hover:bg-green-700 transition duration-300 w-64 text-center"
         @click="navigateTo('/states-of-matter')"
       >
-        Go to Tap-to-Reveal UI
+        Go to Tap-to-Reveal
       </button>
       <button 
         class="bg-blue-500 text-white px-2 py-3 rounded-md hover:bg-green-700 transition duration-300 w-64 text-center"
