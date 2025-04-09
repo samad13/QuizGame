@@ -8,9 +8,9 @@
         </div>
   
         <!-- Back of card -->
-        <div class="absolute w-full h-full flex flex-col p-4 bg-white rounded-xl shadow-md backface-hidden rotate-y-180">
-          <h3 class="text-center font-semibold mb-2 text-lg sm:text-base">{{ backTitle }}</h3>
-          <p class="text-sm sm:text-xs text-gray-700 text-center">{{ backDescription }}</p>
+        <div class="absolute w-full h-full flex flex-col p-6 bg-white rounded-xl shadow-md backface-hidden rotate-y-180">
+          <h3 class="text-center font-semibold mb-2">{{ backTitle }}</h3>
+          <p class="text-sm text-gray-700 text-center">{{ backDescription }}</p>
         </div>
       </div>
     </div>

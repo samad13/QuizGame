@@ -13,7 +13,7 @@ export const stateInfo = {
     name: "Water",
     iconComponent: Droplet,
     color: "bg-[#B96AD9]",
-    description: "A liquid takes the shape of its container but keeps its volume. Its particles are close together."
+    description: "A liquid takes the shape of its container keeps its volume close together."
   },
   ice: {
     name: "Ice",
